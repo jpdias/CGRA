@@ -1,0 +1,31 @@
+﻿Build started 9/23/2013 12:52:41 AM.
+     1>Project "c:\Users\joão pedro dias\documents\visual studio 2012\Projects\LAIG_PROJ\LAIG_PROJ\LAIG_PROJ.vcxproj" on node 2 (Build target(s)).
+     1>Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"c:\users\joão pedro dias\documents\visual studio 2012\Projects\LAIG_PROJ\Debug\LAIG_PROJ.exe" /INCREMENTAL /NOLOGO /LIBPATH:C:\Developer\Libs\CGFlib\lib glew32.lib CGFlibd.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"c:\users\joão pedro dias\documents\visual studio 2012\Projects\LAIG_PROJ\Debug\LAIG_PROJ.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"c:\users\joão pedro dias\documents\visual studio 2012\Projects\LAIG_PROJ\Debug\LAIG_PROJ.lib" /MACHINE:X86 Debug\ExampleObject.obj
+         Debug\LightingScene.obj
+         Debug\main.obj
+         Debug\MyClock.obj
+         Debug\MyClockHand.obj
+         Debug\myCylinder.obj
+         Debug\MyRobot.obj
+         Debug\Newell.obj
+         Debug\Plane.obj
+         Debug\TPinterface.obj
+         Debug\TPscene.obj
+     1>CGFlibd.lib(CGFappearance.obj) : warning LNK4099: PDB 'vc110.pdb' was not found with 'CGFlibd.lib(CGFappearance.obj)' or at 'c:\users\joão pedro dias\documents\visual studio 2012\Projects\LAIG_PROJ\Debug\vc110.pdb'; linking object as if no debug info
+     1>CGFlibd.lib(CGFapplication.obj) : warning LNK4099: PDB 'vc110.pdb' was not found with 'CGFlibd.lib(CGFapplication.obj)' or at 'c:\users\joão pedro dias\documents\visual studio 2012\Projects\LAIG_PROJ\Debug\vc110.pdb'; linking object as if no debug info
+     1>CGFlibd.lib(CGFaxis.obj) : warning LNK4099: PDB 'vc110.pdb' was not found with 'CGFlibd.lib(CGFaxis.obj)' or at 'c:\users\joão pedro dias\documents\visual studio 2012\Projects\LAIG_PROJ\Debug\vc110.pdb'; linking object as if no debug info
+     1>CGFlibd.lib(CGFcamera.obj) : warning LNK4099: PDB 'vc110.pdb' was not found with 'CGFlibd.lib(CGFcamera.obj)' or at 'c:\users\joão pedro dias\documents\visual studio 2012\Projects\LAIG_PROJ\Debug\vc110.pdb'; linking object as if no debug info
+     1>CGFlibd.lib(CGFinterface.obj) : warning LNK4099: PDB 'vc110.pdb' was not found with 'CGFlibd.lib(CGFinterface.obj)' or at 'c:\users\joão pedro dias\documents\visual studio 2012\Projects\LAIG_PROJ\Debug\vc110.pdb'; linking object as if no debug info
+     1>CGFlibd.lib(CGFlight.obj) : warning LNK4099: PDB 'vc110.pdb' was not found with 'CGFlibd.lib(CGFlight.obj)' or at 'c:\users\joão pedro dias\documents\visual studio 2012\Projects\LAIG_PROJ\Debug\vc110.pdb'; linking object as if no debug info
+     1>CGFlibd.lib(CGFobject.obj) : warning LNK4099: PDB 'vc110.pdb' was not found with 'CGFlibd.lib(CGFobject.obj)' or at 'c:\users\joão pedro dias\documents\visual studio 2012\Projects\LAIG_PROJ\Debug\vc110.pdb'; linking object as if no debug info
+     1>CGFlibd.lib(CGFscene.obj) : warning LNK4099: PDB 'vc110.pdb' was not found with 'CGFlibd.lib(CGFscene.obj)' or at 'c:\users\joão pedro dias\documents\visual studio 2012\Projects\LAIG_PROJ\Debug\vc110.pdb'; linking object as if no debug info
+     1>CGFlibd.lib(CGFtexture.obj) : warning LNK4099: PDB 'vc110.pdb' was not found with 'CGFlibd.lib(CGFtexture.obj)' or at 'c:\users\joão pedro dias\documents\visual studio 2012\Projects\LAIG_PROJ\Debug\vc110.pdb'; linking object as if no debug info
+     1>CGFlibd.lib(imagetools.obj) : warning LNK4099: PDB 'vc110.pdb' was not found with 'CGFlibd.lib(imagetools.obj)' or at 'c:\users\joão pedro dias\documents\visual studio 2012\Projects\LAIG_PROJ\Debug\vc110.pdb'; linking object as if no debug info
+     1>CGFlibd.lib(stb_image.obj) : warning LNK4099: PDB 'vc110.pdb' was not found with 'CGFlibd.lib(stb_image.obj)' or at 'c:\users\joão pedro dias\documents\visual studio 2012\Projects\LAIG_PROJ\Debug\vc110.pdb'; linking object as if no debug info
+         LAIG_PROJ.vcxproj -> c:\users\joão pedro dias\documents\visual studio 2012\Projects\LAIG_PROJ\Debug\LAIG_PROJ.exe
+     1>Done Building Project "c:\Users\joão pedro dias\documents\visual studio 2012\Projects\LAIG_PROJ\LAIG_PROJ\LAIG_PROJ.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:06.40
